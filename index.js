@@ -21,7 +21,7 @@ async function init(){
     for (const file of eventFiles) {
     const event = require(`./Events/${file}`);
     const eventName = file.split(".")[0];
-    console.log(`Loading... ${eventName}`)
+    console.log(`Cargando... ${eventName}`)
     client.on(eventName, event.bind(null, client));
     }
 
