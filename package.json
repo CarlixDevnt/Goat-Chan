@@ -1,0 +1,40 @@
+{
+  "name": "goat-chan",
+  "version": "1.5.1",
+  "description": "Un bot multifuncional para Discord",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "bombsweeper.js": "^1.0.1",
+    "cacao_nekoapi": "^1.7.4",
+    "canvacord": "^5.2.3",
+    "canvas": "^2.8.0",
+    "chart.js": "^2.9.4",
+    "chartjs-node-canvas": "^3.2.0",
+    "discord-gamecord": "^2.0.0",
+    "discord-menus": "^1.0.8",
+    "discord-xp": "^1.1.16",
+    "discord.js": "^13.1.0",
+    "lodash": "^4.17.21",
+    "mal-scraper": "^2.11.3",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.12",
+    "node-fetch": "^2.6.1",
+    "random-animals-api": "^1.2.6",
+    "random-puppy": "^1.1.0",
+    "simply-djs": "^2.0.0",
+    "some-random-cat": "^2.2.1",
+    "tinyurl": "^1.1.7",
+    "twitch-api-v5": "^2.0.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "Goat-Chan",
+    "discord"
+  ],
+  "author": "CarlixPerz",
+  "license": "GNU General Public License v3.0"
+}

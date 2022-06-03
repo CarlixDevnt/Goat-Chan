@@ -1,0 +1,12 @@
+{
+    "Name": "Goat-Chan",
+    "token": "token",
+    "prefix": "gc!",
+    "mongoDB": "clave-mongodb",
+    "trackergg": "",
+    "color": "#7122E3",
+    "footer": "Goat-Chan v1.5.1, gracias por el apoyo <3",
+    "adminRole": "[GCT] Desarrollador",
+    "ownerId": "607571230303977493",
+    "bugchannelid":"872478769397506068"
+}
