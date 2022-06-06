@@ -12,6 +12,7 @@ Tienes dos opciones. La primera, hacer una rama a partir de este repositorio (br
 - Una aplicación bot de Discord (ver [Discord Developers](https://discord.com/developers))
 
 **Cómo empezar**
+
 Lo primero es abrir el archivo *config.json*. Verás que hay varias cosas, pero nos centraremos en tres:
 - El **prefix**, que debes poner (recomiendo algo como !)
 - El **token del bot**, que debes sacar de Discord Developers
