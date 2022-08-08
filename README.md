@@ -1,6 +1,10 @@
 Bienvenid@ a la biblioteca de versiones de Goat-Chan. Aquí podrás encontrar algunas versiones antiguas del bot con las que podrás ver su evolución a lo largo del tiempo. Eres libre de revisar el código del bot; pero si quieres utilizarlo, te dejo unas pautas a seguir ;)
 
 # Sobre Goat-chan
+
+[![](https://img.shields.io/badge/discord.js-v13.1.0--dev-blue.svg?logo=npm)](https://github.com/discordjs)
+[![DevServer](https://discordapp.com/api/guilds/865960124908830720/widget.png?style=shield)](https://discord.gg/NSEC6mb6w5)
+
 Goat-chan es un bot multifuncional para tu servidor de discord. Cuenta con comandos de utilidad, diversión, minijuegos... con los que podrás convertir tu servidor en un lugar más ameno. Está programada en el lenguaje de programación *JavaScript*, y tiene su base de datos en *MongoDB*.
 
 # Utilización del código de Goat-Chan para proyectos propios
